@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Neste projeto, fui contratado por uma empresa do ramo de e-commerce para levantar os indicadores de Recência, Frequência e Ticket Médio (RFM) de seus clientes. A metodologia RFM é uma técnica amplamente utilizada para segmentar clientes e analisar seu comportamento de compra:
+Neste projeto, simulamos a situação onde uma empresa do ramo de e-commerce para levantar os indicadores de Recência, Frequência e Ticket Médio (RFM) de seus clientes. A metodologia RFM é uma técnica amplamente utilizada para segmentar clientes e analisar seu comportamento de compra:
 
 - **R (Recency)**: Tempo desde a última compra do cliente (em dias).
 - **F (Frequency)**: Quantidade de compras realizadas pelo cliente.
